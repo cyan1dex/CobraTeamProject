@@ -1,0 +1,15 @@
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529\Tokenizer\bin\Debug\Tokenizer.dll
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529\Tokenizer\bin\Debug\Tokenizer.pdb
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529\Tokenizer\obj\Debug\ResolveAssemblyReference.cache
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529\Tokenizer\obj\Debug\Tokenizer.dll
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529\Tokenizer\obj\Debug\Tokenizer.pdb
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529\Cobra.529\Tokenizer\bin\Debug\Tokenizer.dll
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529\Cobra.529\Tokenizer\bin\Debug\Tokenizer.pdb
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529\Cobra.529\Tokenizer\obj\Debug\ResolveAssemblyReference.cache
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529\Cobra.529\Tokenizer\obj\Debug\Tokenizer.dll
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529\Cobra.529\Tokenizer\obj\Debug\Tokenizer.pdb
+I:\CSULB\529 Search Engine Fall of 2011\Cobra\Tokenizer\bin\Debug\Tokenizer.dll
+I:\CSULB\529 Search Engine Fall of 2011\Cobra\Tokenizer\bin\Debug\Tokenizer.pdb
+I:\CSULB\529 Search Engine Fall of 2011\Cobra\Tokenizer\obj\Debug\ResolveAssemblyReference.cache
+I:\CSULB\529 Search Engine Fall of 2011\Cobra\Tokenizer\obj\Debug\Tokenizer.dll
+I:\CSULB\529 Search Engine Fall of 2011\Cobra\Tokenizer\obj\Debug\Tokenizer.pdb

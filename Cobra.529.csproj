@@ -1,0 +1,286 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E7BE2B45-8684-4133-8D66-1CB4D66C8B4B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Cobra</RootNamespace>
+    <AssemblyName>Cobra</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Frequency.cs" />
+    <Compile Include="ucCosineSimilarity.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucCosineSimilarity.Designer.cs">
+      <DependentUpon>ucCosineSimilarity.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucHeap.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucHeap.Designer.cs">
+      <DependentUpon>ucHeap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBQSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBQSearch.Designer.cs">
+      <DependentUpon>frmBQSearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPorterStemmingTest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPorterStemmingTest.designer.cs">
+      <DependentUpon>frmPorterStemmingTest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSearch.designer.cs">
+      <DependentUpon>frmSearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSearchResult.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSearchResult.designer.cs">
+      <DependentUpon>frmSearchResult.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmShowFile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmShowFile.Designer.cs">
+      <DependentUpon>frmShowFile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUploadFile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUploadFile.designer.cs">
+      <DependentUpon>frmUploadFile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IndexData.cs" />
+    <Compile Include="ucMemoryUtilizationCases.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucMemoryUtilizationCases.Designer.cs">
+      <DependentUpon>ucMemoryUtilizationCases.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucSpellChecker.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucSpellChecker.Designer.cs">
+      <DependentUpon>ucSpellChecker.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucBooleanQuery.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucBooleanQuery.Designer.cs">
+      <DependentUpon>ucBooleanQuery.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucEditDistance.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucEditDistance.Designer.cs">
+      <DependentUpon>ucEditDistance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucIndexGenerator.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucIndexGenerator.Designer.cs">
+      <DependentUpon>ucIndexGenerator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucPorterStemming.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucPorterStemming.Designer.cs">
+      <DependentUpon>ucPorterStemming.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ucZifian.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucZifian.Designer.cs">
+      <DependentUpon>ucZifian.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ucCosineSimilarity.resx">
+      <DependentUpon>ucCosineSimilarity.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucHeap.resx">
+      <DependentUpon>ucHeap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBQSearch.resx">
+      <DependentUpon>frmBQSearch.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPorterStemmingTest.resx">
+      <DependentUpon>frmPorterStemmingTest.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSearch.resx">
+      <DependentUpon>frmSearch.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSearchResult.resx">
+      <DependentUpon>frmSearchResult.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmShowFile.resx">
+      <DependentUpon>frmShowFile.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUploadFile.resx">
+      <DependentUpon>frmUploadFile.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucMemoryUtilizationCases.resx">
+      <DependentUpon>ucMemoryUtilizationCases.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucSpellChecker.resx">
+      <DependentUpon>ucSpellChecker.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucBooleanQuery.resx">
+      <DependentUpon>ucBooleanQuery.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucEditDistance.resx">
+      <DependentUpon>ucEditDistance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucIndexGenerator.resx">
+      <DependentUpon>ucIndexGenerator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucPorterStemming.resx">
+      <DependentUpon>ucPorterStemming.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="ucZifian.resx">
+      <DependentUpon>ucZifian.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="BooleanQuery\BooleanQuery.csproj">
+      <Project>{CD9E4A8C-002B-4802-AA20-4491462D8E93}</Project>
+      <Name>BooleanQuery</Name>
+    </ProjectReference>
+    <ProjectReference Include="InterpreterNIndexer\InterpreterNIndexer.csproj">
+      <Project>{8955D924-B439-46B9-A122-9A7A6DFEA3AE}</Project>
+      <Name>InterpreterNIndexer</Name>
+    </ProjectReference>
+    <ProjectReference Include="PorterStemming\PorterStemming.csproj">
+      <Project>{EE81F67B-8FCA-4C3B-AFE1-EE76A8B5DDEF}</Project>
+      <Name>PorterStemming</Name>
+    </ProjectReference>
+    <ProjectReference Include="QueryTokenizer\QueryTokenizer.csproj">
+      <Project>{AA8FBD34-B59D-4CDB-BA0E-D47178AAF774}</Project>
+      <Name>QueryTokenizer</Name>
+    </ProjectReference>
+    <ProjectReference Include="SpellChecking\SpellChecking.csproj">
+      <Project>{AD77CE8D-1754-4DAF-98E8-3A2B7EA13BCA}</Project>
+      <Name>SpellChecking</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

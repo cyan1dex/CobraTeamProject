@@ -1,0 +1,96 @@
+I:\CSULB\529 Search Engine Fall of 2011\InterpreterNIndexer\obj\Debug\ResolveAssemblyReference.cache
+I:\CSULB\529 Search Engine Fall of 2011\InterpreterNIndexer\bin\Debug\InterpreterNIndexer.dll
+I:\CSULB\529 Search Engine Fall of 2011\InterpreterNIndexer\bin\Debug\InterpreterNIndexer.pdb
+I:\CSULB\529 Search Engine Fall of 2011\InterpreterNIndexer\obj\Debug\InterpreterNIndexer.dll
+I:\CSULB\529 Search Engine Fall of 2011\InterpreterNIndexer\obj\Debug\InterpreterNIndexer.pdb
+F:\CSULB\529 Search Engine Fall of 2011\InterpreterNIndexer\obj\Debug\ResolveAssemblyReference.cache
+F:\CSULB\529 Search Engine Fall of 2011\InterpreterNIndexer\obj\Debug\InterpreterNIndexer.pdb
+F:\CSULB\529 Search Engine Fall of 2011\InterpreterNIndexer\bin\Debug\InterpreterNIndexer.dll
+F:\CSULB\529 Search Engine Fall of 2011\InterpreterNIndexer\bin\Debug\InterpreterNIndexer.pdb
+F:\CSULB\529 Search Engine Fall of 2011\InterpreterNIndexer\obj\Debug\InterpreterNIndexer.dll
+I:\CSULB\529 Search Engine Fall of 2011\InterpreterNIndexer\bin\Debug\PorterStemming.dll
+I:\CSULB\529 Search Engine Fall of 2011\InterpreterNIndexer\bin\Debug\PorterStemming.pdb
+E:\CSULB\529 Search Engine Fall of 2011\InterpreterNIndexer\bin\Debug\InterpreterNIndexer.dll
+E:\CSULB\529 Search Engine Fall of 2011\InterpreterNIndexer\bin\Debug\InterpreterNIndexer.pdb
+E:\CSULB\529 Search Engine Fall of 2011\InterpreterNIndexer\bin\Debug\PorterStemming.dll
+E:\CSULB\529 Search Engine Fall of 2011\InterpreterNIndexer\bin\Debug\PorterStemming.pdb
+E:\CSULB\529 Search Engine Fall of 2011\InterpreterNIndexer\obj\Debug\ResolveAssemblyReference.cache
+E:\CSULB\529 Search Engine Fall of 2011\InterpreterNIndexer\obj\Debug\InterpreterNIndexer.dll
+E:\CSULB\529 Search Engine Fall of 2011\InterpreterNIndexer\obj\Debug\InterpreterNIndexer.pdb
+C:\Users\maheshh\Documents\cecs 529\Cobra.529\InterpreterNIndexer\bin\Debug\InterpreterNIndexer.dll
+C:\Users\maheshh\Documents\cecs 529\Cobra.529\InterpreterNIndexer\bin\Debug\InterpreterNIndexer.pdb
+C:\Users\maheshh\Documents\cecs 529\Cobra.529\InterpreterNIndexer\bin\Debug\PorterStemming.dll
+C:\Users\maheshh\Documents\cecs 529\Cobra.529\InterpreterNIndexer\bin\Debug\PorterStemming.pdb
+C:\Users\maheshh\Documents\cecs 529\Cobra.529\InterpreterNIndexer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\maheshh\Documents\cecs 529\Cobra.529\InterpreterNIndexer\obj\Debug\InterpreterNIndexer.dll
+C:\Users\maheshh\Documents\cecs 529\Cobra.529\InterpreterNIndexer\obj\Debug\InterpreterNIndexer.pdb
+C:\Users\maheshh\Desktop\Cobra.529\Cobra.529\InterpreterNIndexer\bin\Debug\InterpreterNIndexer.dll
+C:\Users\maheshh\Desktop\Cobra.529\Cobra.529\InterpreterNIndexer\bin\Debug\InterpreterNIndexer.pdb
+C:\Users\maheshh\Desktop\Cobra.529\Cobra.529\InterpreterNIndexer\bin\Debug\PorterStemming.dll
+C:\Users\maheshh\Desktop\Cobra.529\Cobra.529\InterpreterNIndexer\bin\Debug\PorterStemming.pdb
+C:\Users\maheshh\Desktop\Cobra.529\Cobra.529\InterpreterNIndexer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\maheshh\Desktop\Cobra.529\Cobra.529\InterpreterNIndexer\obj\Debug\InterpreterNIndexer.dll
+C:\Users\maheshh\Desktop\Cobra.529\Cobra.529\InterpreterNIndexer\obj\Debug\InterpreterNIndexer.pdb
+I:\My Scans\Cobra.529\Cobra.529\InterpreterNIndexer\bin\Debug\InterpreterNIndexer.dll
+I:\My Scans\Cobra.529\Cobra.529\InterpreterNIndexer\bin\Debug\InterpreterNIndexer.pdb
+I:\My Scans\Cobra.529\Cobra.529\InterpreterNIndexer\bin\Debug\PorterStemming.dll
+I:\My Scans\Cobra.529\Cobra.529\InterpreterNIndexer\bin\Debug\PorterStemming.pdb
+I:\My Scans\Cobra.529\Cobra.529\InterpreterNIndexer\obj\Debug\ResolveAssemblyReference.cache
+I:\My Scans\Cobra.529\Cobra.529\InterpreterNIndexer\obj\Debug\InterpreterNIndexer.dll
+I:\My Scans\Cobra.529\Cobra.529\InterpreterNIndexer\obj\Debug\InterpreterNIndexer.pdb
+I:\Cobra.529\InterpreterNIndexer\bin\Debug\InterpreterNIndexer.dll
+I:\Cobra.529\InterpreterNIndexer\bin\Debug\InterpreterNIndexer.pdb
+I:\Cobra.529\InterpreterNIndexer\bin\Debug\PorterStemming.dll
+I:\Cobra.529\InterpreterNIndexer\bin\Debug\PorterStemming.pdb
+I:\Cobra.529\InterpreterNIndexer\obj\Debug\ResolveAssemblyReference.cache
+I:\Cobra.529\InterpreterNIndexer\obj\Debug\InterpreterNIndexer.dll
+I:\Cobra.529\InterpreterNIndexer\obj\Debug\InterpreterNIndexer.pdb
+C:\Users\skang.SUPER\Documents\Visual Studio 2010\Projects\Cobra.529\InterpreterNIndexer\bin\Debug\InterpreterNIndexer.dll
+C:\Users\skang.SUPER\Documents\Visual Studio 2010\Projects\Cobra.529\InterpreterNIndexer\bin\Debug\InterpreterNIndexer.pdb
+C:\Users\skang.SUPER\Documents\Visual Studio 2010\Projects\Cobra.529\InterpreterNIndexer\bin\Debug\PorterStemming.dll
+C:\Users\skang.SUPER\Documents\Visual Studio 2010\Projects\Cobra.529\InterpreterNIndexer\bin\Debug\PorterStemming.pdb
+C:\Users\skang.SUPER\Documents\Visual Studio 2010\Projects\Cobra.529\InterpreterNIndexer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\skang.SUPER\Documents\Visual Studio 2010\Projects\Cobra.529\InterpreterNIndexer\obj\Debug\InterpreterNIndexer.dll
+C:\Users\skang.SUPER\Documents\Visual Studio 2010\Projects\Cobra.529\InterpreterNIndexer\obj\Debug\InterpreterNIndexer.pdb
+E:\CSULB\529 Search Engine Fall of 2011\Cobra.529\InterpreterNIndexer\bin\Debug\InterpreterNIndexer.dll
+E:\CSULB\529 Search Engine Fall of 2011\Cobra.529\InterpreterNIndexer\bin\Debug\InterpreterNIndexer.pdb
+E:\CSULB\529 Search Engine Fall of 2011\Cobra.529\InterpreterNIndexer\bin\Debug\PorterStemming.dll
+E:\CSULB\529 Search Engine Fall of 2011\Cobra.529\InterpreterNIndexer\bin\Debug\PorterStemming.pdb
+E:\CSULB\529 Search Engine Fall of 2011\Cobra.529\InterpreterNIndexer\obj\Debug\ResolveAssemblyReference.cache
+E:\CSULB\529 Search Engine Fall of 2011\Cobra.529\InterpreterNIndexer\obj\Debug\InterpreterNIndexer.dll
+E:\CSULB\529 Search Engine Fall of 2011\Cobra.529\InterpreterNIndexer\obj\Debug\InterpreterNIndexer.pdb
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529\InterpreterNIndexer\bin\Debug\InterpreterNIndexer.dll
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529\InterpreterNIndexer\bin\Debug\InterpreterNIndexer.pdb
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529\InterpreterNIndexer\bin\Debug\PorterStemming.dll
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529\InterpreterNIndexer\bin\Debug\PorterStemming.pdb
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529\InterpreterNIndexer\obj\Debug\ResolveAssemblyReference.cache
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529\InterpreterNIndexer\obj\Debug\InterpreterNIndexer.dll
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529\InterpreterNIndexer\obj\Debug\InterpreterNIndexer.pdb
+C:\Development\Cobra.529\InterpreterNIndexer\bin\Debug\InterpreterNIndexer.dll
+C:\Development\Cobra.529\InterpreterNIndexer\bin\Debug\InterpreterNIndexer.pdb
+C:\Development\Cobra.529\InterpreterNIndexer\bin\Debug\PorterStemming.dll
+C:\Development\Cobra.529\InterpreterNIndexer\bin\Debug\PorterStemming.pdb
+C:\Development\Cobra.529\InterpreterNIndexer\obj\Debug\ResolveAssemblyReference.cache
+C:\Development\Cobra.529\InterpreterNIndexer\obj\Debug\InterpreterNIndexer.dll
+C:\Development\Cobra.529\InterpreterNIndexer\obj\Debug\InterpreterNIndexer.pdb
+K:\CSULB\529 Search Engine Fall of 2011\Cobra.529\InterpreterNIndexer\bin\Debug\InterpreterNIndexer.dll
+K:\CSULB\529 Search Engine Fall of 2011\Cobra.529\InterpreterNIndexer\bin\Debug\InterpreterNIndexer.pdb
+K:\CSULB\529 Search Engine Fall of 2011\Cobra.529\InterpreterNIndexer\bin\Debug\PorterStemming.dll
+K:\CSULB\529 Search Engine Fall of 2011\Cobra.529\InterpreterNIndexer\bin\Debug\PorterStemming.pdb
+K:\CSULB\529 Search Engine Fall of 2011\Cobra.529\InterpreterNIndexer\obj\Debug\ResolveAssemblyReference.cache
+K:\CSULB\529 Search Engine Fall of 2011\Cobra.529\InterpreterNIndexer\obj\Debug\InterpreterNIndexer.dll
+K:\CSULB\529 Search Engine Fall of 2011\Cobra.529\InterpreterNIndexer\obj\Debug\InterpreterNIndexer.pdb
+C:\Users\skang\Desktop\Cobra.529\InterpreterNIndexer\bin\Debug\InterpreterNIndexer.dll
+C:\Users\skang\Desktop\Cobra.529\InterpreterNIndexer\bin\Debug\InterpreterNIndexer.pdb
+C:\Users\skang\Desktop\Cobra.529\InterpreterNIndexer\bin\Debug\PorterStemming.dll
+C:\Users\skang\Desktop\Cobra.529\InterpreterNIndexer\bin\Debug\PorterStemming.pdb
+C:\Users\skang\Desktop\Cobra.529\InterpreterNIndexer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\skang\Desktop\Cobra.529\InterpreterNIndexer\obj\Debug\InterpreterNIndexer.dll
+C:\Users\skang\Desktop\Cobra.529\InterpreterNIndexer\obj\Debug\InterpreterNIndexer.pdb
+C:\Users\flaVius\Desktop\Cobra.529\InterpreterNIndexer\bin\Debug\InterpreterNIndexer.dll
+C:\Users\flaVius\Desktop\Cobra.529\InterpreterNIndexer\bin\Debug\InterpreterNIndexer.pdb
+C:\Users\flaVius\Desktop\Cobra.529\InterpreterNIndexer\bin\Debug\PorterStemming.dll
+C:\Users\flaVius\Desktop\Cobra.529\InterpreterNIndexer\bin\Debug\PorterStemming.pdb
+C:\Users\flaVius\Desktop\Cobra.529\InterpreterNIndexer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\flaVius\Desktop\Cobra.529\InterpreterNIndexer\obj\Debug\InterpreterNIndexer.dll
+C:\Users\flaVius\Desktop\Cobra.529\InterpreterNIndexer\obj\Debug\InterpreterNIndexer.pdb

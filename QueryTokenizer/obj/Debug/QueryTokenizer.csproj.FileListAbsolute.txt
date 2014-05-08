@@ -1,0 +1,82 @@
+F:\CSULB\529 Search Engine Fall of 2011\Cobra.529\QueryTokenizer\bin\Debug\Tokenizer.dll
+F:\CSULB\529 Search Engine Fall of 2011\Cobra.529\QueryTokenizer\bin\Debug\Tokenizer.pdb
+F:\CSULB\529 Search Engine Fall of 2011\Cobra.529\QueryTokenizer\obj\Debug\ResolveAssemblyReference.cache
+F:\CSULB\529 Search Engine Fall of 2011\Cobra.529\QueryTokenizer\obj\Debug\Tokenizer.dll
+F:\CSULB\529 Search Engine Fall of 2011\Cobra.529\QueryTokenizer\obj\Debug\Tokenizer.pdb
+C:\Users\maheshh\Documents\cecs 529\Cobra.529\QueryTokenizer\bin\Debug\Tokenizer.dll
+C:\Users\maheshh\Documents\cecs 529\Cobra.529\QueryTokenizer\bin\Debug\Tokenizer.pdb
+C:\Users\maheshh\Documents\cecs 529\Cobra.529\QueryTokenizer\bin\Debug\PorterStemming.dll
+C:\Users\maheshh\Documents\cecs 529\Cobra.529\QueryTokenizer\bin\Debug\PorterStemming.pdb
+C:\Users\maheshh\Documents\cecs 529\Cobra.529\QueryTokenizer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\maheshh\Documents\cecs 529\Cobra.529\QueryTokenizer\obj\Debug\Tokenizer.dll
+C:\Users\maheshh\Documents\cecs 529\Cobra.529\QueryTokenizer\obj\Debug\Tokenizer.pdb
+C:\Users\maheshh\Desktop\Cobra.529\Cobra.529\QueryTokenizer\bin\Debug\Tokenizer.dll
+C:\Users\maheshh\Desktop\Cobra.529\Cobra.529\QueryTokenizer\bin\Debug\Tokenizer.pdb
+C:\Users\maheshh\Desktop\Cobra.529\Cobra.529\QueryTokenizer\bin\Debug\PorterStemming.dll
+C:\Users\maheshh\Desktop\Cobra.529\Cobra.529\QueryTokenizer\bin\Debug\PorterStemming.pdb
+C:\Users\maheshh\Desktop\Cobra.529\Cobra.529\QueryTokenizer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\maheshh\Desktop\Cobra.529\Cobra.529\QueryTokenizer\obj\Debug\Tokenizer.dll
+C:\Users\maheshh\Desktop\Cobra.529\Cobra.529\QueryTokenizer\obj\Debug\Tokenizer.pdb
+I:\My Scans\Cobra.529\Cobra.529\QueryTokenizer\bin\Debug\Tokenizer.dll
+I:\My Scans\Cobra.529\Cobra.529\QueryTokenizer\bin\Debug\Tokenizer.pdb
+I:\My Scans\Cobra.529\Cobra.529\QueryTokenizer\bin\Debug\PorterStemming.dll
+I:\My Scans\Cobra.529\Cobra.529\QueryTokenizer\bin\Debug\PorterStemming.pdb
+I:\My Scans\Cobra.529\Cobra.529\QueryTokenizer\obj\Debug\ResolveAssemblyReference.cache
+I:\My Scans\Cobra.529\Cobra.529\QueryTokenizer\obj\Debug\Tokenizer.dll
+I:\My Scans\Cobra.529\Cobra.529\QueryTokenizer\obj\Debug\Tokenizer.pdb
+I:\Cobra.529\QueryTokenizer\bin\Debug\Tokenizer.dll
+I:\Cobra.529\QueryTokenizer\bin\Debug\Tokenizer.pdb
+I:\Cobra.529\QueryTokenizer\bin\Debug\PorterStemming.dll
+I:\Cobra.529\QueryTokenizer\bin\Debug\PorterStemming.pdb
+I:\Cobra.529\QueryTokenizer\obj\Debug\ResolveAssemblyReference.cache
+I:\Cobra.529\QueryTokenizer\obj\Debug\Tokenizer.dll
+I:\Cobra.529\QueryTokenizer\obj\Debug\Tokenizer.pdb
+E:\CSULB\529 Search Engine Fall of 2011\Cobra.529\QueryTokenizer\bin\Debug\Tokenizer.dll
+E:\CSULB\529 Search Engine Fall of 2011\Cobra.529\QueryTokenizer\bin\Debug\Tokenizer.pdb
+E:\CSULB\529 Search Engine Fall of 2011\Cobra.529\QueryTokenizer\bin\Debug\PorterStemming.dll
+E:\CSULB\529 Search Engine Fall of 2011\Cobra.529\QueryTokenizer\bin\Debug\PorterStemming.pdb
+E:\CSULB\529 Search Engine Fall of 2011\Cobra.529\QueryTokenizer\obj\Debug\ResolveAssemblyReference.cache
+E:\CSULB\529 Search Engine Fall of 2011\Cobra.529\QueryTokenizer\obj\Debug\Tokenizer.dll
+E:\CSULB\529 Search Engine Fall of 2011\Cobra.529\QueryTokenizer\obj\Debug\Tokenizer.pdb
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529Test\QueryTokenizer\bin\Debug\Tokenizer.dll
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529Test\QueryTokenizer\bin\Debug\Tokenizer.pdb
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529Test\QueryTokenizer\bin\Debug\PorterStemming.dll
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529Test\QueryTokenizer\bin\Debug\PorterStemming.pdb
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529Test\QueryTokenizer\obj\Debug\ResolveAssemblyReference.cache
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529Test\QueryTokenizer\obj\Debug\Tokenizer.dll
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529Test\QueryTokenizer\obj\Debug\Tokenizer.pdb
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529\QueryTokenizer\bin\Debug\Tokenizer.dll
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529\QueryTokenizer\bin\Debug\Tokenizer.pdb
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529\QueryTokenizer\bin\Debug\PorterStemming.dll
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529\QueryTokenizer\bin\Debug\PorterStemming.pdb
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529\QueryTokenizer\obj\Debug\ResolveAssemblyReference.cache
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529\QueryTokenizer\obj\Debug\Tokenizer.dll
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529\QueryTokenizer\obj\Debug\Tokenizer.pdb
+C:\Development\Cobra.529\QueryTokenizer\bin\Debug\Tokenizer.dll
+C:\Development\Cobra.529\QueryTokenizer\bin\Debug\Tokenizer.pdb
+C:\Development\Cobra.529\QueryTokenizer\bin\Debug\PorterStemming.dll
+C:\Development\Cobra.529\QueryTokenizer\bin\Debug\PorterStemming.pdb
+C:\Development\Cobra.529\QueryTokenizer\obj\Debug\ResolveAssemblyReference.cache
+C:\Development\Cobra.529\QueryTokenizer\obj\Debug\Tokenizer.dll
+C:\Development\Cobra.529\QueryTokenizer\obj\Debug\Tokenizer.pdb
+K:\CSULB\529 Search Engine Fall of 2011\Cobra.529\QueryTokenizer\bin\Debug\Tokenizer.dll
+K:\CSULB\529 Search Engine Fall of 2011\Cobra.529\QueryTokenizer\bin\Debug\Tokenizer.pdb
+K:\CSULB\529 Search Engine Fall of 2011\Cobra.529\QueryTokenizer\bin\Debug\PorterStemming.dll
+K:\CSULB\529 Search Engine Fall of 2011\Cobra.529\QueryTokenizer\bin\Debug\PorterStemming.pdb
+K:\CSULB\529 Search Engine Fall of 2011\Cobra.529\QueryTokenizer\obj\Debug\ResolveAssemblyReference.cache
+K:\CSULB\529 Search Engine Fall of 2011\Cobra.529\QueryTokenizer\obj\Debug\Tokenizer.dll
+K:\CSULB\529 Search Engine Fall of 2011\Cobra.529\QueryTokenizer\obj\Debug\Tokenizer.pdb
+C:\Users\skang\Desktop\Cobra.529\QueryTokenizer\bin\Debug\Tokenizer.dll
+C:\Users\skang\Desktop\Cobra.529\QueryTokenizer\bin\Debug\Tokenizer.pdb
+C:\Users\skang\Desktop\Cobra.529\QueryTokenizer\bin\Debug\PorterStemming.dll
+C:\Users\skang\Desktop\Cobra.529\QueryTokenizer\bin\Debug\PorterStemming.pdb
+C:\Users\skang\Desktop\Cobra.529\QueryTokenizer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\skang\Desktop\Cobra.529\QueryTokenizer\obj\Debug\Tokenizer.dll
+C:\Users\skang\Desktop\Cobra.529\QueryTokenizer\obj\Debug\Tokenizer.pdb
+C:\Users\flaVius\Desktop\Cobra.529\QueryTokenizer\bin\Debug\Tokenizer.dll
+C:\Users\flaVius\Desktop\Cobra.529\QueryTokenizer\bin\Debug\Tokenizer.pdb
+C:\Users\flaVius\Desktop\Cobra.529\QueryTokenizer\bin\Debug\PorterStemming.dll
+C:\Users\flaVius\Desktop\Cobra.529\QueryTokenizer\bin\Debug\PorterStemming.pdb
+C:\Users\flaVius\Desktop\Cobra.529\QueryTokenizer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\flaVius\Desktop\Cobra.529\QueryTokenizer\obj\Debug\Tokenizer.dll
+C:\Users\flaVius\Desktop\Cobra.529\QueryTokenizer\obj\Debug\Tokenizer.pdb

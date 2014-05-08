@@ -1,0 +1,80 @@
+D:\Cobra-529\PorterStemming\bin\Debug\PorterStemming.dll
+D:\Cobra-529\PorterStemming\bin\Debug\PorterStemming.pdb
+D:\Cobra-529\PorterStemming\obj\Debug\ResolveAssemblyReference.cache
+D:\Cobra-529\PorterStemming\obj\Debug\PorterStemming.dll
+D:\Cobra-529\PorterStemming\obj\Debug\PorterStemming.pdb
+\\vmware-host\Shared Folders\Documents\Visual Studio 2010\Projects\Cobra.529\Cobra.529\PorterStemming\bin\Debug\PorterStemming.dll
+\\vmware-host\Shared Folders\Documents\Visual Studio 2010\Projects\Cobra.529\Cobra.529\PorterStemming\bin\Debug\PorterStemming.pdb
+\\vmware-host\Shared Folders\Documents\Visual Studio 2010\Projects\Cobra.529\Cobra.529\PorterStemming\obj\Debug\ResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Documents\Visual Studio 2010\Projects\Cobra.529\Cobra.529\PorterStemming\obj\Debug\PorterStemming.dll
+\\vmware-host\Shared Folders\Documents\Visual Studio 2010\Projects\Cobra.529\Cobra.529\PorterStemming\obj\Debug\PorterStemming.pdb
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529\Cobra.529\PorterStemming\bin\Debug\PorterStemming.dll
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529\Cobra.529\PorterStemming\bin\Debug\PorterStemming.pdb
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529\Cobra.529\PorterStemming\obj\Debug\ResolveAssemblyReference.cache
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529\Cobra.529\PorterStemming\obj\Debug\PorterStemming.dll
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529\Cobra.529\PorterStemming\obj\Debug\PorterStemming.pdb
+I:\CSULB\529 Search Engine Fall of 2011\Cobra\PorterStemming\bin\Debug\PorterStemming.dll
+I:\CSULB\529 Search Engine Fall of 2011\Cobra\PorterStemming\bin\Debug\PorterStemming.pdb
+I:\CSULB\529 Search Engine Fall of 2011\Cobra\PorterStemming\obj\Debug\ResolveAssemblyReference.cache
+I:\CSULB\529 Search Engine Fall of 2011\Cobra\PorterStemming\obj\Debug\PorterStemming.dll
+I:\CSULB\529 Search Engine Fall of 2011\Cobra\PorterStemming\obj\Debug\PorterStemming.pdb
+F:\CSULB\529 Search Engine Fall of 2011\Cobra.529\PorterStemming\bin\Debug\PorterStemming.dll
+F:\CSULB\529 Search Engine Fall of 2011\Cobra.529\PorterStemming\bin\Debug\PorterStemming.pdb
+F:\CSULB\529 Search Engine Fall of 2011\Cobra.529\PorterStemming\obj\Debug\ResolveAssemblyReference.cache
+F:\CSULB\529 Search Engine Fall of 2011\Cobra.529\PorterStemming\obj\Debug\PorterStemming.dll
+F:\CSULB\529 Search Engine Fall of 2011\Cobra.529\PorterStemming\obj\Debug\PorterStemming.pdb
+C:\Users\maheshh\Documents\cecs 529\Cobra.529\PorterStemming\bin\Debug\PorterStemming.dll
+C:\Users\maheshh\Documents\cecs 529\Cobra.529\PorterStemming\bin\Debug\PorterStemming.pdb
+C:\Users\maheshh\Documents\cecs 529\Cobra.529\PorterStemming\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\maheshh\Documents\cecs 529\Cobra.529\PorterStemming\obj\Debug\PorterStemming.dll
+C:\Users\maheshh\Documents\cecs 529\Cobra.529\PorterStemming\obj\Debug\PorterStemming.pdb
+C:\Users\maheshh\Desktop\Cobra.529\Cobra.529\PorterStemming\bin\Debug\PorterStemming.dll
+C:\Users\maheshh\Desktop\Cobra.529\Cobra.529\PorterStemming\bin\Debug\PorterStemming.pdb
+C:\Users\maheshh\Desktop\Cobra.529\Cobra.529\PorterStemming\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\maheshh\Desktop\Cobra.529\Cobra.529\PorterStemming\obj\Debug\PorterStemming.dll
+C:\Users\maheshh\Desktop\Cobra.529\Cobra.529\PorterStemming\obj\Debug\PorterStemming.pdb
+I:\My Scans\Cobra.529\Cobra.529\PorterStemming\bin\Debug\PorterStemming.dll
+I:\My Scans\Cobra.529\Cobra.529\PorterStemming\bin\Debug\PorterStemming.pdb
+I:\My Scans\Cobra.529\Cobra.529\PorterStemming\obj\Debug\ResolveAssemblyReference.cache
+I:\My Scans\Cobra.529\Cobra.529\PorterStemming\obj\Debug\PorterStemming.dll
+I:\My Scans\Cobra.529\Cobra.529\PorterStemming\obj\Debug\PorterStemming.pdb
+I:\Cobra.529\PorterStemming\bin\Debug\PorterStemming.dll
+I:\Cobra.529\PorterStemming\bin\Debug\PorterStemming.pdb
+I:\Cobra.529\PorterStemming\obj\Debug\ResolveAssemblyReference.cache
+I:\Cobra.529\PorterStemming\obj\Debug\PorterStemming.dll
+I:\Cobra.529\PorterStemming\obj\Debug\PorterStemming.pdb
+E:\CSULB\529 Search Engine Fall of 2011\Cobra.529\PorterStemming\bin\Debug\PorterStemming.dll
+E:\CSULB\529 Search Engine Fall of 2011\Cobra.529\PorterStemming\bin\Debug\PorterStemming.pdb
+E:\CSULB\529 Search Engine Fall of 2011\Cobra.529\PorterStemming\obj\Debug\ResolveAssemblyReference.cache
+E:\CSULB\529 Search Engine Fall of 2011\Cobra.529\PorterStemming\obj\Debug\PorterStemming.dll
+E:\CSULB\529 Search Engine Fall of 2011\Cobra.529\PorterStemming\obj\Debug\PorterStemming.pdb
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529Test\PorterStemming\bin\Debug\PorterStemming.dll
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529Test\PorterStemming\bin\Debug\PorterStemming.pdb
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529Test\PorterStemming\obj\Debug\ResolveAssemblyReference.cache
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529Test\PorterStemming\obj\Debug\PorterStemming.dll
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529Test\PorterStemming\obj\Debug\PorterStemming.pdb
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529\PorterStemming\bin\Debug\PorterStemming.dll
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529\PorterStemming\bin\Debug\PorterStemming.pdb
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529\PorterStemming\obj\Debug\ResolveAssemblyReference.cache
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529\PorterStemming\obj\Debug\PorterStemming.dll
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529\PorterStemming\obj\Debug\PorterStemming.pdb
+C:\Development\Cobra.529\PorterStemming\bin\Debug\PorterStemming.dll
+C:\Development\Cobra.529\PorterStemming\bin\Debug\PorterStemming.pdb
+C:\Development\Cobra.529\PorterStemming\obj\Debug\ResolveAssemblyReference.cache
+C:\Development\Cobra.529\PorterStemming\obj\Debug\PorterStemming.dll
+C:\Development\Cobra.529\PorterStemming\obj\Debug\PorterStemming.pdb
+K:\CSULB\529 Search Engine Fall of 2011\Cobra.529\PorterStemming\bin\Debug\PorterStemming.dll
+K:\CSULB\529 Search Engine Fall of 2011\Cobra.529\PorterStemming\bin\Debug\PorterStemming.pdb
+K:\CSULB\529 Search Engine Fall of 2011\Cobra.529\PorterStemming\obj\Debug\ResolveAssemblyReference.cache
+K:\CSULB\529 Search Engine Fall of 2011\Cobra.529\PorterStemming\obj\Debug\PorterStemming.dll
+K:\CSULB\529 Search Engine Fall of 2011\Cobra.529\PorterStemming\obj\Debug\PorterStemming.pdb
+C:\Users\skang\Desktop\Cobra.529\PorterStemming\bin\Debug\PorterStemming.dll
+C:\Users\skang\Desktop\Cobra.529\PorterStemming\bin\Debug\PorterStemming.pdb
+C:\Users\skang\Desktop\Cobra.529\PorterStemming\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\skang\Desktop\Cobra.529\PorterStemming\obj\Debug\PorterStemming.dll
+C:\Users\skang\Desktop\Cobra.529\PorterStemming\obj\Debug\PorterStemming.pdb
+C:\Users\flaVius\Desktop\Cobra.529\PorterStemming\bin\Debug\PorterStemming.dll
+C:\Users\flaVius\Desktop\Cobra.529\PorterStemming\bin\Debug\PorterStemming.pdb
+C:\Users\flaVius\Desktop\Cobra.529\PorterStemming\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\flaVius\Desktop\Cobra.529\PorterStemming\obj\Debug\PorterStemming.dll
+C:\Users\flaVius\Desktop\Cobra.529\PorterStemming\obj\Debug\PorterStemming.pdb

@@ -1,0 +1,399 @@
+\\vmware-host\Shared Folders\Documents\Visual Studio 2010\Projects\Cobra.529\Cobra.529\bin\Debug\Cobra.529.exe
+\\vmware-host\Shared Folders\Documents\Visual Studio 2010\Projects\Cobra.529\Cobra.529\bin\Debug\Cobra.529.pdb
+\\vmware-host\Shared Folders\Documents\Visual Studio 2010\Projects\Cobra.529\Cobra.529\obj\x86\Debug\ResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Documents\Visual Studio 2010\Projects\Cobra.529\Cobra.529\obj\x86\Debug\Cobra._529.Properties.Resources.resources
+\\vmware-host\Shared Folders\Documents\Visual Studio 2010\Projects\Cobra.529\Cobra.529\obj\x86\Debug\GenerateResource.read.1.tlog
+\\vmware-host\Shared Folders\Documents\Visual Studio 2010\Projects\Cobra.529\Cobra.529\obj\x86\Debug\GenerateResource.write.1.tlog
+\\vmware-host\Shared Folders\Documents\Visual Studio 2010\Projects\Cobra.529\Cobra.529\obj\x86\Debug\Cobra.529.exe
+\\vmware-host\Shared Folders\Documents\Visual Studio 2010\Projects\Cobra.529\Cobra.529\obj\x86\Debug\Cobra.529.pdb
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529\Cobra.529\obj\x86\Debug\Cobra.529.exe
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529\Cobra.529\obj\x86\Debug\Cobra.529.pdb
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529\Cobra.529\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529\Cobra.529\obj\x86\Debug\TreeDataStructure.frmMenu.resources
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529\Cobra.529\obj\x86\Debug\Cobra._529.Properties.Resources.resources
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529\Cobra.529\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529\Cobra.529\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529\Cobra.529\bin\Debug\Cobra.529.exe
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529\Cobra.529\bin\Debug\Cobra.529.pdb
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529\Cobra.529\bin\Debug\BooleanQuery.dll
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529\Cobra.529\bin\Debug\PorterStemming.dll
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529\Cobra.529\bin\Debug\BooleanQuery.pdb
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529\Cobra.529\bin\Debug\PorterStemming.pdb
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529\Cobra.529\bin\Debug\Tokenizer.dll
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529\Cobra.529\bin\Debug\Tokenizer.pdb
+I:\CSULB\529 Search Engine Fall of 2011\Cobra\obj\x86\Debug\Cobra.529.exe
+I:\CSULB\529 Search Engine Fall of 2011\Cobra\obj\x86\Debug\Cobra.529.pdb
+I:\CSULB\529 Search Engine Fall of 2011\Cobra\bin\Debug\Cobra.529.exe
+I:\CSULB\529 Search Engine Fall of 2011\Cobra\bin\Debug\Cobra.529.pdb
+I:\CSULB\529 Search Engine Fall of 2011\Cobra\bin\Debug\BooleanQuery.dll
+I:\CSULB\529 Search Engine Fall of 2011\Cobra\bin\Debug\PorterStemming.dll
+I:\CSULB\529 Search Engine Fall of 2011\Cobra\bin\Debug\Tokenizer.dll
+I:\CSULB\529 Search Engine Fall of 2011\Cobra\bin\Debug\BooleanQuery.pdb
+I:\CSULB\529 Search Engine Fall of 2011\Cobra\bin\Debug\PorterStemming.pdb
+I:\CSULB\529 Search Engine Fall of 2011\Cobra\bin\Debug\Tokenizer.pdb
+I:\CSULB\529 Search Engine Fall of 2011\Cobra\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\CSULB\529 Search Engine Fall of 2011\Cobra\obj\x86\Debug\TreeDataStructure.frmMenu.resources
+I:\CSULB\529 Search Engine Fall of 2011\Cobra\obj\x86\Debug\Cobra._529.Properties.Resources.resources
+I:\CSULB\529 Search Engine Fall of 2011\Cobra\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\CSULB\529 Search Engine Fall of 2011\Cobra\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\CSULB\529 Search Engine Fall of 2011\Cobra.529\bin\Debug\Cobra.529.exe.config
+F:\CSULB\529 Search Engine Fall of 2011\Cobra.529\obj\x86\Debug\Cobra.529.exe
+F:\CSULB\529 Search Engine Fall of 2011\Cobra.529\obj\x86\Debug\Cobra.529.pdb
+F:\CSULB\529 Search Engine Fall of 2011\Cobra.529\bin\Debug\Cobra.529.exe
+F:\CSULB\529 Search Engine Fall of 2011\Cobra.529\bin\Debug\Cobra.529.pdb
+F:\CSULB\529 Search Engine Fall of 2011\Cobra.529\bin\Debug\BooleanQuery.dll
+F:\CSULB\529 Search Engine Fall of 2011\Cobra.529\bin\Debug\InterpreterNIndexer.dll
+F:\CSULB\529 Search Engine Fall of 2011\Cobra.529\bin\Debug\PorterStemming.dll
+F:\CSULB\529 Search Engine Fall of 2011\Cobra.529\bin\Debug\Tokenizer.dll
+F:\CSULB\529 Search Engine Fall of 2011\Cobra.529\bin\Debug\InterpreterNIndexer.pdb
+F:\CSULB\529 Search Engine Fall of 2011\Cobra.529\bin\Debug\BooleanQuery.pdb
+F:\CSULB\529 Search Engine Fall of 2011\Cobra.529\bin\Debug\PorterStemming.pdb
+F:\CSULB\529 Search Engine Fall of 2011\Cobra.529\bin\Debug\Tokenizer.pdb
+F:\CSULB\529 Search Engine Fall of 2011\Cobra.529\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\CSULB\529 Search Engine Fall of 2011\Cobra.529\obj\x86\Debug\Cobra.frmMenu.resources
+F:\CSULB\529 Search Engine Fall of 2011\Cobra.529\obj\x86\Debug\Cobra._529.Properties.Resources.resources
+F:\CSULB\529 Search Engine Fall of 2011\Cobra.529\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\CSULB\529 Search Engine Fall of 2011\Cobra.529\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\maheshh\Documents\cecs 529\Cobra.529\bin\Debug\BooleanQuery.dll
+C:\Users\maheshh\Documents\cecs 529\Cobra.529\bin\Debug\InterpreterNIndexer.dll
+C:\Users\maheshh\Documents\cecs 529\Cobra.529\bin\Debug\PorterStemming.dll
+C:\Users\maheshh\Documents\cecs 529\Cobra.529\bin\Debug\Tokenizer.dll
+C:\Users\maheshh\Documents\cecs 529\Cobra.529\bin\Debug\BooleanQuery.pdb
+C:\Users\maheshh\Documents\cecs 529\Cobra.529\bin\Debug\InterpreterNIndexer.pdb
+C:\Users\maheshh\Documents\cecs 529\Cobra.529\bin\Debug\PorterStemming.pdb
+C:\Users\maheshh\Documents\cecs 529\Cobra.529\bin\Debug\Tokenizer.pdb
+C:\Users\maheshh\Documents\cecs 529\Cobra.529\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\maheshh\Documents\cecs 529\Cobra.529\obj\x86\Debug\Cobra.frmPorterStemmingTest.resources
+C:\Users\maheshh\Documents\cecs 529\Cobra.529\obj\x86\Debug\Cobra.frmSearch.resources
+C:\Users\maheshh\Documents\cecs 529\Cobra.529\obj\x86\Debug\Cobra.frmSearchResult.resources
+C:\Users\maheshh\Documents\cecs 529\Cobra.529\obj\x86\Debug\Cobra.frmUploadFile.resources
+C:\Users\maheshh\Documents\cecs 529\Cobra.529\obj\x86\Debug\Cobra.ucBooleanQuery.resources
+C:\Users\maheshh\Documents\cecs 529\Cobra.529\obj\x86\Debug\Cobra.ucIndexGenerator.resources
+C:\Users\maheshh\Documents\cecs 529\Cobra.529\obj\x86\Debug\Cobra.ucPorterStemming.resources
+C:\Users\maheshh\Documents\cecs 529\Cobra.529\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\maheshh\Documents\cecs 529\Cobra.529\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\maheshh\Documents\cecs 529\Cobra.529\bin\Debug\Cobra.exe.config
+C:\Users\maheshh\Documents\cecs 529\Cobra.529\bin\Debug\Cobra.exe
+C:\Users\maheshh\Documents\cecs 529\Cobra.529\bin\Debug\Cobra.pdb
+C:\Users\maheshh\Documents\cecs 529\Cobra.529\obj\x86\Debug\Cobra.Properties.Resources.resources
+C:\Users\maheshh\Documents\cecs 529\Cobra.529\obj\x86\Debug\Cobra.exe
+C:\Users\maheshh\Documents\cecs 529\Cobra.529\obj\x86\Debug\Cobra.pdb
+C:\Users\maheshh\Documents\cecs 529\Cobra.529\obj\x86\Debug\Cobra.frmShowFile.resources
+E:\Cobra.529\bin\Debug\Cobra.exe.config
+E:\Cobra.529\obj\x86\Debug\Cobra.exe
+E:\Cobra.529\obj\x86\Debug\Cobra.pdb
+E:\Cobra.529\bin\Debug\Cobra.exe
+E:\Cobra.529\bin\Debug\Cobra.pdb
+E:\Cobra.529\bin\Debug\BooleanQuery.dll
+E:\Cobra.529\bin\Debug\InterpreterNIndexer.dll
+E:\Cobra.529\bin\Debug\PorterStemming.dll
+E:\Cobra.529\bin\Debug\Tokenizer.dll
+E:\Cobra.529\bin\Debug\BooleanQuery.pdb
+E:\Cobra.529\bin\Debug\InterpreterNIndexer.pdb
+E:\Cobra.529\bin\Debug\PorterStemming.pdb
+E:\Cobra.529\bin\Debug\Tokenizer.pdb
+E:\Cobra.529\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Cobra.529\obj\x86\Debug\Cobra.frmMenu.resources
+E:\Cobra.529\obj\x86\Debug\Cobra.frmPorterStemmingTest.resources
+E:\Cobra.529\obj\x86\Debug\Cobra.frmSearch.resources
+E:\Cobra.529\obj\x86\Debug\Cobra.frmSearchResult.resources
+E:\Cobra.529\obj\x86\Debug\Cobra.frmShowFile.resources
+E:\Cobra.529\obj\x86\Debug\Cobra.frmUploadFile.resources
+E:\Cobra.529\obj\x86\Debug\Cobra.ucBooleanQuery.resources
+E:\Cobra.529\obj\x86\Debug\Cobra.ucIndexGenerator.resources
+E:\Cobra.529\obj\x86\Debug\Cobra.ucPorterStemming.resources
+E:\Cobra.529\obj\x86\Debug\Cobra.Properties.Resources.resources
+E:\Cobra.529\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Cobra.529\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\maheshh\Desktop\Cobra.529\Cobra.529\bin\Debug\Cobra.exe.config
+C:\Users\maheshh\Desktop\Cobra.529\Cobra.529\obj\x86\Debug\Cobra.exe
+C:\Users\maheshh\Desktop\Cobra.529\Cobra.529\obj\x86\Debug\Cobra.pdb
+C:\Users\maheshh\Desktop\Cobra.529\Cobra.529\bin\Debug\Cobra.exe
+C:\Users\maheshh\Desktop\Cobra.529\Cobra.529\bin\Debug\Cobra.pdb
+C:\Users\maheshh\Desktop\Cobra.529\Cobra.529\bin\Debug\BooleanQuery.dll
+C:\Users\maheshh\Desktop\Cobra.529\Cobra.529\bin\Debug\InterpreterNIndexer.dll
+C:\Users\maheshh\Desktop\Cobra.529\Cobra.529\bin\Debug\PorterStemming.dll
+C:\Users\maheshh\Desktop\Cobra.529\Cobra.529\bin\Debug\Tokenizer.dll
+C:\Users\maheshh\Desktop\Cobra.529\Cobra.529\bin\Debug\BooleanQuery.pdb
+C:\Users\maheshh\Desktop\Cobra.529\Cobra.529\bin\Debug\InterpreterNIndexer.pdb
+C:\Users\maheshh\Desktop\Cobra.529\Cobra.529\bin\Debug\PorterStemming.pdb
+C:\Users\maheshh\Desktop\Cobra.529\Cobra.529\bin\Debug\Tokenizer.pdb
+C:\Users\maheshh\Desktop\Cobra.529\Cobra.529\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\maheshh\Desktop\Cobra.529\Cobra.529\obj\x86\Debug\Cobra.frmMenu.resources
+C:\Users\maheshh\Desktop\Cobra.529\Cobra.529\obj\x86\Debug\Cobra.frmPorterStemmingTest.resources
+C:\Users\maheshh\Desktop\Cobra.529\Cobra.529\obj\x86\Debug\Cobra.frmSearch.resources
+C:\Users\maheshh\Desktop\Cobra.529\Cobra.529\obj\x86\Debug\Cobra.frmSearchResult.resources
+C:\Users\maheshh\Desktop\Cobra.529\Cobra.529\obj\x86\Debug\Cobra.frmShowFile.resources
+C:\Users\maheshh\Desktop\Cobra.529\Cobra.529\obj\x86\Debug\Cobra.frmUploadFile.resources
+C:\Users\maheshh\Desktop\Cobra.529\Cobra.529\obj\x86\Debug\Cobra.ucBooleanQuery.resources
+C:\Users\maheshh\Desktop\Cobra.529\Cobra.529\obj\x86\Debug\Cobra.ucIndexGenerator.resources
+C:\Users\maheshh\Desktop\Cobra.529\Cobra.529\obj\x86\Debug\Cobra.ucPorterStemming.resources
+C:\Users\maheshh\Desktop\Cobra.529\Cobra.529\obj\x86\Debug\Cobra.Properties.Resources.resources
+C:\Users\maheshh\Desktop\Cobra.529\Cobra.529\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\maheshh\Desktop\Cobra.529\Cobra.529\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\My Scans\Cobra.529\Cobra.529\bin\Debug\Cobra.exe.config
+I:\My Scans\Cobra.529\Cobra.529\bin\Debug\Cobra.exe
+I:\My Scans\Cobra.529\Cobra.529\bin\Debug\Cobra.pdb
+I:\My Scans\Cobra.529\Cobra.529\bin\Debug\BooleanQuery.dll
+I:\My Scans\Cobra.529\Cobra.529\bin\Debug\InterpreterNIndexer.dll
+I:\My Scans\Cobra.529\Cobra.529\bin\Debug\PorterStemming.dll
+I:\My Scans\Cobra.529\Cobra.529\bin\Debug\Tokenizer.dll
+I:\My Scans\Cobra.529\Cobra.529\bin\Debug\BooleanQuery.pdb
+I:\My Scans\Cobra.529\Cobra.529\bin\Debug\InterpreterNIndexer.pdb
+I:\My Scans\Cobra.529\Cobra.529\bin\Debug\PorterStemming.pdb
+I:\My Scans\Cobra.529\Cobra.529\bin\Debug\Tokenizer.pdb
+I:\My Scans\Cobra.529\Cobra.529\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\My Scans\Cobra.529\Cobra.529\obj\x86\Debug\Cobra.frmMenu.resources
+I:\My Scans\Cobra.529\Cobra.529\obj\x86\Debug\Cobra.frmPorterStemmingTest.resources
+I:\My Scans\Cobra.529\Cobra.529\obj\x86\Debug\Cobra.frmSearch.resources
+I:\My Scans\Cobra.529\Cobra.529\obj\x86\Debug\Cobra.frmSearchResult.resources
+I:\My Scans\Cobra.529\Cobra.529\obj\x86\Debug\Cobra.frmShowFile.resources
+I:\My Scans\Cobra.529\Cobra.529\obj\x86\Debug\Cobra.frmUploadFile.resources
+I:\My Scans\Cobra.529\Cobra.529\obj\x86\Debug\Cobra.ucBooleanQuery.resources
+I:\My Scans\Cobra.529\Cobra.529\obj\x86\Debug\Cobra.ucIndexGenerator.resources
+I:\My Scans\Cobra.529\Cobra.529\obj\x86\Debug\Cobra.ucPorterStemming.resources
+I:\My Scans\Cobra.529\Cobra.529\obj\x86\Debug\Cobra.Properties.Resources.resources
+I:\My Scans\Cobra.529\Cobra.529\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\My Scans\Cobra.529\Cobra.529\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\My Scans\Cobra.529\Cobra.529\obj\x86\Debug\Cobra.exe
+I:\My Scans\Cobra.529\Cobra.529\obj\x86\Debug\Cobra.pdb
+I:\Cobra.529\bin\Debug\Cobra.exe.config
+I:\Cobra.529\obj\x86\Debug\Cobra.exe
+I:\Cobra.529\obj\x86\Debug\Cobra.pdb
+I:\Cobra.529\bin\Debug\Cobra.exe
+I:\Cobra.529\bin\Debug\Cobra.pdb
+I:\Cobra.529\bin\Debug\BooleanQuery.dll
+I:\Cobra.529\bin\Debug\InterpreterNIndexer.dll
+I:\Cobra.529\bin\Debug\PorterStemming.dll
+I:\Cobra.529\bin\Debug\Tokenizer.dll
+I:\Cobra.529\bin\Debug\BooleanQuery.pdb
+I:\Cobra.529\bin\Debug\InterpreterNIndexer.pdb
+I:\Cobra.529\bin\Debug\PorterStemming.pdb
+I:\Cobra.529\bin\Debug\Tokenizer.pdb
+I:\Cobra.529\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\Cobra.529\obj\x86\Debug\Cobra.frmMenu.resources
+I:\Cobra.529\obj\x86\Debug\Cobra.frmPorterStemmingTest.resources
+I:\Cobra.529\obj\x86\Debug\Cobra.frmSearch.resources
+I:\Cobra.529\obj\x86\Debug\Cobra.frmSearchResult.resources
+I:\Cobra.529\obj\x86\Debug\Cobra.frmShowFile.resources
+I:\Cobra.529\obj\x86\Debug\Cobra.frmUploadFile.resources
+I:\Cobra.529\obj\x86\Debug\Cobra.ucBooleanQuery.resources
+I:\Cobra.529\obj\x86\Debug\Cobra.ucIndexGenerator.resources
+I:\Cobra.529\obj\x86\Debug\Cobra.ucPorterStemming.resources
+I:\Cobra.529\obj\x86\Debug\Cobra.Properties.Resources.resources
+I:\Cobra.529\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\Cobra.529\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\CSULB\529 Search Engine Fall of 2011\Cobra.529\bin\Debug\Cobra.exe.config
+E:\CSULB\529 Search Engine Fall of 2011\Cobra.529\bin\Debug\Cobra.exe
+E:\CSULB\529 Search Engine Fall of 2011\Cobra.529\bin\Debug\Cobra.pdb
+E:\CSULB\529 Search Engine Fall of 2011\Cobra.529\bin\Debug\BooleanQuery.dll
+E:\CSULB\529 Search Engine Fall of 2011\Cobra.529\bin\Debug\InterpreterNIndexer.dll
+E:\CSULB\529 Search Engine Fall of 2011\Cobra.529\bin\Debug\PorterStemming.dll
+E:\CSULB\529 Search Engine Fall of 2011\Cobra.529\bin\Debug\Tokenizer.dll
+E:\CSULB\529 Search Engine Fall of 2011\Cobra.529\bin\Debug\BooleanQuery.pdb
+E:\CSULB\529 Search Engine Fall of 2011\Cobra.529\bin\Debug\InterpreterNIndexer.pdb
+E:\CSULB\529 Search Engine Fall of 2011\Cobra.529\bin\Debug\PorterStemming.pdb
+E:\CSULB\529 Search Engine Fall of 2011\Cobra.529\bin\Debug\Tokenizer.pdb
+E:\CSULB\529 Search Engine Fall of 2011\Cobra.529\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\CSULB\529 Search Engine Fall of 2011\Cobra.529\obj\x86\Debug\Cobra.frmMenu.resources
+E:\CSULB\529 Search Engine Fall of 2011\Cobra.529\obj\x86\Debug\Cobra.frmPorterStemmingTest.resources
+E:\CSULB\529 Search Engine Fall of 2011\Cobra.529\obj\x86\Debug\Cobra.frmSearch.resources
+E:\CSULB\529 Search Engine Fall of 2011\Cobra.529\obj\x86\Debug\Cobra.frmSearchResult.resources
+E:\CSULB\529 Search Engine Fall of 2011\Cobra.529\obj\x86\Debug\Cobra.frmShowFile.resources
+E:\CSULB\529 Search Engine Fall of 2011\Cobra.529\obj\x86\Debug\Cobra.frmUploadFile.resources
+E:\CSULB\529 Search Engine Fall of 2011\Cobra.529\obj\x86\Debug\Cobra.ucBooleanQuery.resources
+E:\CSULB\529 Search Engine Fall of 2011\Cobra.529\obj\x86\Debug\Cobra.ucIndexGenerator.resources
+E:\CSULB\529 Search Engine Fall of 2011\Cobra.529\obj\x86\Debug\Cobra.ucPorterStemming.resources
+E:\CSULB\529 Search Engine Fall of 2011\Cobra.529\obj\x86\Debug\Cobra.Properties.Resources.resources
+E:\CSULB\529 Search Engine Fall of 2011\Cobra.529\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\CSULB\529 Search Engine Fall of 2011\Cobra.529\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\CSULB\529 Search Engine Fall of 2011\Cobra.529\obj\x86\Debug\Cobra.exe
+E:\CSULB\529 Search Engine Fall of 2011\Cobra.529\obj\x86\Debug\Cobra.pdb
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529Test\bin\Debug\Cobra.exe.config
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529Test\obj\x86\Debug\Cobra.exe
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529Test\obj\x86\Debug\Cobra.pdb
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529Test\bin\Debug\Cobra.exe
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529Test\bin\Debug\Cobra.pdb
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529Test\bin\Debug\BooleanQuery.dll
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529Test\bin\Debug\InterpreterNIndexer.dll
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529Test\bin\Debug\PorterStemming.dll
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529Test\bin\Debug\Tokenizer.dll
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529Test\bin\Debug\BooleanQuery.pdb
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529Test\bin\Debug\InterpreterNIndexer.pdb
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529Test\bin\Debug\PorterStemming.pdb
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529Test\bin\Debug\Tokenizer.pdb
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529Test\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529Test\obj\x86\Debug\Cobra.frmMenu.resources
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529Test\obj\x86\Debug\Cobra.frmPorterStemmingTest.resources
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529Test\obj\x86\Debug\Cobra.frmSearch.resources
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529Test\obj\x86\Debug\Cobra.frmSearchResult.resources
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529Test\obj\x86\Debug\Cobra.frmShowFile.resources
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529Test\obj\x86\Debug\Cobra.frmUploadFile.resources
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529Test\obj\x86\Debug\Cobra.ucBooleanQuery.resources
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529Test\obj\x86\Debug\Cobra.ucIndexGenerator.resources
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529Test\obj\x86\Debug\Cobra.ucPorterStemming.resources
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529Test\obj\x86\Debug\Cobra.Properties.Resources.resources
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529Test\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529Test\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\CSULB\529 Search Engine Fall of 2011\Cobra.529\obj\x86\Debug\Cobra.frmBQSearch.resources
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529\bin\Debug\Cobra.exe.config
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529\bin\Debug\Cobra.exe
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529\bin\Debug\Cobra.pdb
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529\bin\Debug\BooleanQuery.dll
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529\bin\Debug\InterpreterNIndexer.dll
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529\bin\Debug\PorterStemming.dll
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529\bin\Debug\Tokenizer.dll
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529\bin\Debug\BooleanQuery.pdb
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529\bin\Debug\InterpreterNIndexer.pdb
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529\bin\Debug\PorterStemming.pdb
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529\bin\Debug\Tokenizer.pdb
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529\obj\x86\Debug\Cobra.frmBQSearch.resources
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529\obj\x86\Debug\Cobra.frmPorterStemmingTest.resources
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529\obj\x86\Debug\Cobra.frmSearch.resources
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529\obj\x86\Debug\Cobra.frmSearchResult.resources
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529\obj\x86\Debug\Cobra.frmShowFile.resources
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529\obj\x86\Debug\Cobra.frmUploadFile.resources
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529\obj\x86\Debug\Cobra.ucBooleanQuery.resources
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529\obj\x86\Debug\Cobra.ucIndexGenerator.resources
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529\obj\x86\Debug\Cobra.ucPorterStemming.resources
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529\obj\x86\Debug\Cobra.Properties.Resources.resources
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529\obj\x86\Debug\Cobra.exe
+I:\CSULB\529 Search Engine Fall of 2011\Cobra.529\obj\x86\Debug\Cobra.pdb
+C:\Development\Cobra.529\bin\Debug\Cobra.exe.config
+C:\Development\Cobra.529\bin\Debug\Cobra.exe
+C:\Development\Cobra.529\bin\Debug\Cobra.pdb
+C:\Development\Cobra.529\bin\Debug\BooleanQuery.dll
+C:\Development\Cobra.529\bin\Debug\InterpreterNIndexer.dll
+C:\Development\Cobra.529\bin\Debug\PorterStemming.dll
+C:\Development\Cobra.529\bin\Debug\SpellChecking.dll
+C:\Development\Cobra.529\bin\Debug\Tokenizer.dll
+C:\Development\Cobra.529\bin\Debug\BooleanQuery.pdb
+C:\Development\Cobra.529\bin\Debug\InterpreterNIndexer.pdb
+C:\Development\Cobra.529\bin\Debug\PorterStemming.pdb
+C:\Development\Cobra.529\bin\Debug\Tokenizer.pdb
+C:\Development\Cobra.529\bin\Debug\SpellChecking.pdb
+C:\Development\Cobra.529\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Development\Cobra.529\obj\x86\Debug\Cobra.frmBQSearch.resources
+C:\Development\Cobra.529\obj\x86\Debug\Cobra.frmPorterStemmingTest.resources
+C:\Development\Cobra.529\obj\x86\Debug\Cobra.frmSearch.resources
+C:\Development\Cobra.529\obj\x86\Debug\Cobra.frmSearchResult.resources
+C:\Development\Cobra.529\obj\x86\Debug\Cobra.frmShowFile.resources
+C:\Development\Cobra.529\obj\x86\Debug\Cobra.frmUploadFile.resources
+C:\Development\Cobra.529\obj\x86\Debug\Cobra.ucBooleanQuery.resources
+C:\Development\Cobra.529\obj\x86\Debug\Cobra.ucEditDistance.resources
+C:\Development\Cobra.529\obj\x86\Debug\Cobra.ucIndexGenerator.resources
+C:\Development\Cobra.529\obj\x86\Debug\Cobra.ucPorterStemming.resources
+C:\Development\Cobra.529\obj\x86\Debug\Cobra.Properties.Resources.resources
+C:\Development\Cobra.529\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Development\Cobra.529\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Development\Cobra.529\obj\x86\Debug\Cobra.exe
+C:\Development\Cobra.529\obj\x86\Debug\Cobra.pdb
+C:\Development\Cobra.529\obj\x86\Debug\Cobra.ucSpellChecker.resources
+C:\Development\Cobra.529\obj\x86\Debug\Cobra.ucZifian.resources
+K:\CSULB\529 Search Engine Fall of 2011\Cobra.529\bin\Debug\Cobra.exe.config
+K:\CSULB\529 Search Engine Fall of 2011\Cobra.529\obj\x86\Debug\Cobra.exe
+K:\CSULB\529 Search Engine Fall of 2011\Cobra.529\obj\x86\Debug\Cobra.pdb
+K:\CSULB\529 Search Engine Fall of 2011\Cobra.529\bin\Debug\Cobra.exe
+K:\CSULB\529 Search Engine Fall of 2011\Cobra.529\bin\Debug\Cobra.pdb
+K:\CSULB\529 Search Engine Fall of 2011\Cobra.529\bin\Debug\BooleanQuery.dll
+K:\CSULB\529 Search Engine Fall of 2011\Cobra.529\bin\Debug\InterpreterNIndexer.dll
+K:\CSULB\529 Search Engine Fall of 2011\Cobra.529\bin\Debug\PorterStemming.dll
+K:\CSULB\529 Search Engine Fall of 2011\Cobra.529\bin\Debug\SpellChecking.dll
+K:\CSULB\529 Search Engine Fall of 2011\Cobra.529\bin\Debug\Tokenizer.dll
+K:\CSULB\529 Search Engine Fall of 2011\Cobra.529\bin\Debug\BooleanQuery.pdb
+K:\CSULB\529 Search Engine Fall of 2011\Cobra.529\bin\Debug\InterpreterNIndexer.pdb
+K:\CSULB\529 Search Engine Fall of 2011\Cobra.529\bin\Debug\PorterStemming.pdb
+K:\CSULB\529 Search Engine Fall of 2011\Cobra.529\bin\Debug\Tokenizer.pdb
+K:\CSULB\529 Search Engine Fall of 2011\Cobra.529\bin\Debug\SpellChecking.pdb
+K:\CSULB\529 Search Engine Fall of 2011\Cobra.529\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\CSULB\529 Search Engine Fall of 2011\Cobra.529\obj\x86\Debug\Cobra.frmBQSearch.resources
+K:\CSULB\529 Search Engine Fall of 2011\Cobra.529\obj\x86\Debug\Cobra.frmPorterStemmingTest.resources
+K:\CSULB\529 Search Engine Fall of 2011\Cobra.529\obj\x86\Debug\Cobra.frmSearch.resources
+K:\CSULB\529 Search Engine Fall of 2011\Cobra.529\obj\x86\Debug\Cobra.frmSearchResult.resources
+K:\CSULB\529 Search Engine Fall of 2011\Cobra.529\obj\x86\Debug\Cobra.frmShowFile.resources
+K:\CSULB\529 Search Engine Fall of 2011\Cobra.529\obj\x86\Debug\Cobra.frmUploadFile.resources
+K:\CSULB\529 Search Engine Fall of 2011\Cobra.529\obj\x86\Debug\Cobra.ucSpellChecker.resources
+K:\CSULB\529 Search Engine Fall of 2011\Cobra.529\obj\x86\Debug\Cobra.ucBooleanQuery.resources
+K:\CSULB\529 Search Engine Fall of 2011\Cobra.529\obj\x86\Debug\Cobra.ucEditDistance.resources
+K:\CSULB\529 Search Engine Fall of 2011\Cobra.529\obj\x86\Debug\Cobra.ucIndexGenerator.resources
+K:\CSULB\529 Search Engine Fall of 2011\Cobra.529\obj\x86\Debug\Cobra.ucPorterStemming.resources
+K:\CSULB\529 Search Engine Fall of 2011\Cobra.529\obj\x86\Debug\Cobra.Properties.Resources.resources
+K:\CSULB\529 Search Engine Fall of 2011\Cobra.529\obj\x86\Debug\Cobra.ucZifian.resources
+K:\CSULB\529 Search Engine Fall of 2011\Cobra.529\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\CSULB\529 Search Engine Fall of 2011\Cobra.529\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\maheshh\Documents\cecs 529\Cobra.529\bin\Debug\SpellChecking.dll
+C:\Users\maheshh\Documents\cecs 529\Cobra.529\bin\Debug\SpellChecking.pdb
+C:\Users\maheshh\Documents\cecs 529\Cobra.529\obj\x86\Debug\Cobra.frmBQSearch.resources
+C:\Users\maheshh\Documents\cecs 529\Cobra.529\obj\x86\Debug\Cobra.ucSpellChecker.resources
+C:\Users\maheshh\Documents\cecs 529\Cobra.529\obj\x86\Debug\Cobra.ucEditDistance.resources
+C:\Users\maheshh\Documents\cecs 529\Cobra.529\obj\x86\Debug\Cobra.ucZifian.resources
+C:\Users\skang\Desktop\Cobra.529\bin\Debug\Cobra.exe.config
+C:\Users\skang\Desktop\Cobra.529\bin\Debug\Cobra.exe
+C:\Users\skang\Desktop\Cobra.529\bin\Debug\Cobra.pdb
+C:\Users\skang\Desktop\Cobra.529\bin\Debug\BooleanQuery.dll
+C:\Users\skang\Desktop\Cobra.529\bin\Debug\InterpreterNIndexer.dll
+C:\Users\skang\Desktop\Cobra.529\bin\Debug\PorterStemming.dll
+C:\Users\skang\Desktop\Cobra.529\bin\Debug\SpellChecking.dll
+C:\Users\skang\Desktop\Cobra.529\bin\Debug\Tokenizer.dll
+C:\Users\skang\Desktop\Cobra.529\bin\Debug\BooleanQuery.pdb
+C:\Users\skang\Desktop\Cobra.529\bin\Debug\InterpreterNIndexer.pdb
+C:\Users\skang\Desktop\Cobra.529\bin\Debug\PorterStemming.pdb
+C:\Users\skang\Desktop\Cobra.529\bin\Debug\Tokenizer.pdb
+C:\Users\skang\Desktop\Cobra.529\bin\Debug\SpellChecking.pdb
+C:\Users\skang\Desktop\Cobra.529\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\skang\Desktop\Cobra.529\obj\x86\Debug\Cobra.ucHeap.resources
+C:\Users\skang\Desktop\Cobra.529\obj\x86\Debug\Cobra.frmBQSearch.resources
+C:\Users\skang\Desktop\Cobra.529\obj\x86\Debug\Cobra.frmPorterStemmingTest.resources
+C:\Users\skang\Desktop\Cobra.529\obj\x86\Debug\Cobra.frmSearch.resources
+C:\Users\skang\Desktop\Cobra.529\obj\x86\Debug\Cobra.frmSearchResult.resources
+C:\Users\skang\Desktop\Cobra.529\obj\x86\Debug\Cobra.frmShowFile.resources
+C:\Users\skang\Desktop\Cobra.529\obj\x86\Debug\Cobra.frmUploadFile.resources
+C:\Users\skang\Desktop\Cobra.529\obj\x86\Debug\Cobra.ucMemoryUtilizationCases.resources
+C:\Users\skang\Desktop\Cobra.529\obj\x86\Debug\Cobra.ucSpellChecker.resources
+C:\Users\skang\Desktop\Cobra.529\obj\x86\Debug\Cobra.ucBooleanQuery.resources
+C:\Users\skang\Desktop\Cobra.529\obj\x86\Debug\Cobra.ucEditDistance.resources
+C:\Users\skang\Desktop\Cobra.529\obj\x86\Debug\Cobra.ucIndexGenerator.resources
+C:\Users\skang\Desktop\Cobra.529\obj\x86\Debug\Cobra.ucPorterStemming.resources
+C:\Users\skang\Desktop\Cobra.529\obj\x86\Debug\Cobra.Properties.Resources.resources
+C:\Users\skang\Desktop\Cobra.529\obj\x86\Debug\Cobra.ucZifian.resources
+C:\Users\skang\Desktop\Cobra.529\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\skang\Desktop\Cobra.529\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\skang\Desktop\Cobra.529\obj\x86\Debug\Cobra.exe
+C:\Users\skang\Desktop\Cobra.529\obj\x86\Debug\Cobra.pdb
+C:\Users\flaVius\Desktop\Cobra.529\bin\Debug\Cobra.exe.config
+C:\Users\flaVius\Desktop\Cobra.529\obj\x86\Debug\Cobra.exe
+C:\Users\flaVius\Desktop\Cobra.529\obj\x86\Debug\Cobra.pdb
+C:\Users\flaVius\Desktop\Cobra.529\bin\Debug\Cobra.exe
+C:\Users\flaVius\Desktop\Cobra.529\bin\Debug\Cobra.pdb
+C:\Users\flaVius\Desktop\Cobra.529\bin\Debug\BooleanQuery.dll
+C:\Users\flaVius\Desktop\Cobra.529\bin\Debug\InterpreterNIndexer.dll
+C:\Users\flaVius\Desktop\Cobra.529\bin\Debug\PorterStemming.dll
+C:\Users\flaVius\Desktop\Cobra.529\bin\Debug\SpellChecking.dll
+C:\Users\flaVius\Desktop\Cobra.529\bin\Debug\Tokenizer.dll
+C:\Users\flaVius\Desktop\Cobra.529\bin\Debug\BooleanQuery.pdb
+C:\Users\flaVius\Desktop\Cobra.529\bin\Debug\InterpreterNIndexer.pdb
+C:\Users\flaVius\Desktop\Cobra.529\bin\Debug\PorterStemming.pdb
+C:\Users\flaVius\Desktop\Cobra.529\bin\Debug\Tokenizer.pdb
+C:\Users\flaVius\Desktop\Cobra.529\bin\Debug\SpellChecking.pdb
+C:\Users\flaVius\Desktop\Cobra.529\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\flaVius\Desktop\Cobra.529\obj\x86\Debug\Cobra.ucCosineSimilarity.resources
+C:\Users\flaVius\Desktop\Cobra.529\obj\x86\Debug\Cobra.ucHeap.resources
+C:\Users\flaVius\Desktop\Cobra.529\obj\x86\Debug\Cobra.frmBQSearch.resources
+C:\Users\flaVius\Desktop\Cobra.529\obj\x86\Debug\Cobra.frmPorterStemmingTest.resources
+C:\Users\flaVius\Desktop\Cobra.529\obj\x86\Debug\Cobra.frmSearch.resources
+C:\Users\flaVius\Desktop\Cobra.529\obj\x86\Debug\Cobra.frmSearchResult.resources
+C:\Users\flaVius\Desktop\Cobra.529\obj\x86\Debug\Cobra.frmShowFile.resources
+C:\Users\flaVius\Desktop\Cobra.529\obj\x86\Debug\Cobra.frmUploadFile.resources
+C:\Users\flaVius\Desktop\Cobra.529\obj\x86\Debug\Cobra.ucMemoryUtilizationCases.resources
+C:\Users\flaVius\Desktop\Cobra.529\obj\x86\Debug\Cobra.ucSpellChecker.resources
+C:\Users\flaVius\Desktop\Cobra.529\obj\x86\Debug\Cobra.ucBooleanQuery.resources
+C:\Users\flaVius\Desktop\Cobra.529\obj\x86\Debug\Cobra.ucEditDistance.resources
+C:\Users\flaVius\Desktop\Cobra.529\obj\x86\Debug\Cobra.ucIndexGenerator.resources
+C:\Users\flaVius\Desktop\Cobra.529\obj\x86\Debug\Cobra.ucPorterStemming.resources
+C:\Users\flaVius\Desktop\Cobra.529\obj\x86\Debug\Cobra.Properties.Resources.resources
+C:\Users\flaVius\Desktop\Cobra.529\obj\x86\Debug\Cobra.ucZifian.resources
+C:\Users\flaVius\Desktop\Cobra.529\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\flaVius\Desktop\Cobra.529\obj\x86\Debug\GenerateResource.write.1.tlog
